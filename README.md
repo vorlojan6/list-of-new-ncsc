@@ -1,8 +1,6 @@
 # New non-complete set coverings
 
-This repository contains the explicit coverings behind the upper bounds of
-
-> E. Piccione and J. Vorloeper, *Applying Combinatorial Techniques To Find Minimal Non-Complete Set Coverings*.
+This repository contains the explicit coverings behind the upper bounds of [Applying Combinatorial Techniques To Find Minimal Non-Complete Set Coverings](https://eprint.iacr.org/2026/2796).
 
 Every upper bound on $\rho_{t,d}(s)$ marked by a cross in Figure 1 of the paper is attained by one of the files below, and every file is such a cross.
 The repository also contains a script that checks the files against the definition.
